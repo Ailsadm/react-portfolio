@@ -5,12 +5,24 @@ function About() {
     <div>
       <h1>About Page</h1>
       <p>
-        Nunc pharetra finibus est at efficitur. Praesent sed congue diam. Integer gravida dui
-        mauris, ut interdum nunc egestas sed. Aenean sed mollis diam. Nunc aliquet risus ac finibus
-        porta. Nam quis arcu non lectus tincidunt fermentum. Suspendisse aliquet orci porta quam
-        semper imperdiet. Praesent euismod mi justo, faucibus scelerisque risus cursus in. Sed
-        rhoncus mollis diam, sit amet facilisis lectus blandit at.
+        A motivated and passionate junior developer with a strong foundation in
+        computer science principles and experience in front-end web development.
+        Proficient in HTML, CSS and JavaScript, with a keen interest in learning
+        new technologies and solving complex problems. Looking to join a team
+        where I can continue to grow and make meaningful contributions. As a
+        Technologist I have developed a strong attention to detail and I am
+        excited to bring my skills and experience to a new field. My combination
+        of technical aptitude and strong work ethic will make me a valubale
+        assest to any team. I am eager to persue my interest in web development
+        and follow my enthusiasm for learning and solving new problems.
       </p>
+      <ul><h2>Skills:</h2> 
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>React</li>
+        <li>HTML</li>
+        <li>Node.js</li>
+      </ul>
     </div>
   );
 }

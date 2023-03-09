@@ -1,33 +1,23 @@
 import React from 'react';
 import { Link, Route, Routes } from 'react-router-dom';
-import Learn from './Learn';
+
 
 function Contact(props) {
   return (
     <div>
       <h1>Contact Page</h1>
-      <p>
-        Integer cursus bibendum sem non pretium. Vestibulum in aliquet sem, quis
-        molestie urna. Aliquam semper ultrices varius. Aliquam faucibus sit amet
-        magna a ultrices. Aenean pellentesque placerat lacus imperdiet
-        efficitur. In felis nisl, luctus non ante euismod, tincidunt bibendum
-        mi. In a molestie nisl, eu sodales diam. Nam tincidunt lacus quis magna
-        posuere, eget tristique dui dapibus. Maecenas fermentum elementum
-        faucibus. Quisque nec metus vestibulum, egestas massa eu, sollicitudin
-        ipsum. Nulla facilisi. Sed ut erat ligula. Nam tincidunt nunc in nibh
-        dictum ullamcorper. Class aptent taciti sociosqu ad litora torquent per
-        conubia nostra, per inceptos himenaeos. Etiam ornare rutrum felis at
-        rhoncus. Etiam vel condimentum magna, quis tempor nulla.
-      </p>
-      <Link to="learn" role="button" className="btn btn-link">
-        Learn More
-      </Link>
-      <Link to="contact" role="button" className="btn btn-link">
-        Learn Less
-      </Link>
-      <Routes>
-        <Route path="learn" element={<Learn />} />
-      </Routes>
+      <p><strong>GitHub Profile:</strong> https://github.com/Ailsadm</p> 
+      <p><strong>LinkedIn Page:</strong> https://www.linkedin.com/in/ailsa-mcgowan-780376260/</p>
+      <p><strong>Email:</strong> ailsamcgowan@hotmail.co.uk</p>
+      
+      <form>
+        <h3>Contact Me</h3>
+        <input placeholder='Name'></input>
+        <input placeholder='Email'></input>
+        <input placeholder='Message'></input>
+        <button>Submit</button>
+      </form>
+      
     </div>
   );
 }
