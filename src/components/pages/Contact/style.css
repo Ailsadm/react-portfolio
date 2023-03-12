@@ -1,0 +1,22 @@
+.contactInfo{
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+.form{
+    /* display: flex; */
+    justify-content: center;
+    margin: 30px;
+}
+.inputform{
+    margin: 30px;
+    border-radius: 5px;
+    display: block;
+    width: 400px;
+}
+.formsubmitbutton{
+    margin-left: 175px;
+}

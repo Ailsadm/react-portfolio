@@ -1,11 +1,12 @@
 import React from "react";
+import "./style.css";
 
 function About() {
   return (
     <div>
       <h1>About Page</h1>
-      <p>
-        A motivated and passionate junior developer with a strong foundation in
+      <p className="aboutP">
+        A motivated and passionate developer with a strong foundation in
         computer science principles and experience in front-end web development.
         Proficient in HTML, CSS and JavaScript, with a keen interest in learning
         new technologies and solving complex problems. Looking to join a team
@@ -16,7 +17,7 @@ function About() {
         assest to any team. I am eager to persue my interest in web development
         and follow my enthusiasm for learning and solving new problems.
       </p>
-      <ul><h2>Skills:</h2> 
+      <ul className="aboutUL"><h2>Skills:</h2> 
         <li>CSS</li>
         <li>JavaScript</li>
         <li>React</li>

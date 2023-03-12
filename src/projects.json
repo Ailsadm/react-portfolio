@@ -4,14 +4,14 @@
   {
     "id": 1,
     "name": "ToyStore",
-    "image": "./assets/images/ToyStore.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/ToyStore.PNG",
     "link": "https://ailsadm.github.io/ToyStore/",
     "githublink": "https://github.com/Ailsadm/ToyStore"
   },
   {
     "id": 2,
     "name": "Who Said the Quote",
-    "image": "./assets/images/WhoSaidTheQuote.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/WhoSaidTheQuote.PNG",
     "link": "https://ailsadm.github.io/Who-said-the-quote-Quiz/",
     "githublink": "https://github.com/Ailsadm/Who-said-the-quote-Quiz"
     
@@ -19,7 +19,7 @@
   {
     "id": 3,
     "name": "Team Profile Generator",
-    "image": "./assets/images/TeamProfile.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/TeamProfile.PNG",
     "link": "https://ailsadm.github.io/Team-Profile-Generator/",
     "githublink": "https://github.com/Ailsadm/Team-Profile-Generator"
     
@@ -27,7 +27,7 @@
   {
     "id": 4,
     "name": "Weather Reports",
-    "image": "./assets/images/WeatherReport.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/WeatherReport.PNG",
     "link": "https://ailsadm.github.io/Weather-Reports/",
     "githublink": "https://github.com/Ailsadm/Weather-Reports"
     
@@ -35,7 +35,7 @@
   {
     "id": 5,
     "name": "Daily Planner",
-    "image": "./assets/images/Dailyplanner.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/Dailyplanner.PNG",
     "link": "https://ailsadm.github.io/Daily-Planner/",
     "githublink": "https://github.com/Ailsadm/Daily-Planner"
     
@@ -43,7 +43,7 @@
   {
     "id": 6,
     "name": "Password Generator",
-    "image": "./assets/images/PasswordGenertor.PNG",
+    "image": "https://raw.githubusercontent.com/Ailsadm/react-portfolio/main/src/assets/images/PasswordGenerator.PNG",
     "link": "https://ailsadm.github.io/Password-Generator/",
     "githublink": "https://github.com/Ailsadm/Password-Generator"
     

@@ -1,34 +1,26 @@
 .card {
   background: #fff;
   border-radius: 2px;
-  height: 325px;
-  margin: 1rem;
-  position: relative;
-  width: 325px;
-  box-shadow: 0 3px 6px #999, 0 3px 6px #999;
-  text-align: left;
-}
-
-.card > .img-container {
-  height: 60%;
-  overflow: hidden;
+  box-shadow: 0 3px 6px #e8a87c, 0 3px 6px #e8a87c;
   text-align: center;
-  background:#6CADDC;
+  overflow:hidden;
+  display:flex;
+  flex-direction: column;
+  justify-content: space-between;
+  cursor: pointer;
+  transition: transform 200ms ease-in;
+
+ 
 }
-.card > .img-container > img {
-  width: 60%
+.btn-edit{
+  background-color: #e8a87c !important;
+  margin: 10px;
 }
 
-.card > .content {
-  padding-left: 1rem;
-  padding-right: 1rem;
-  font-size: 15px;
+.card-title{
+ font-weight: bold;
 }
-
-.card > .content > ul {
-  list-style-type: none;
+.card-text{
+  border-radius: 3px;
 }
-
-.card > .content > ul > li {
-  margin-top: 18px;
-}
+  
