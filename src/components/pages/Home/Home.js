@@ -6,7 +6,7 @@ function Home() {
   return (
     <div>
       <h1>Ailsa McGowan</h1>
-      <img  src={pic} alt="myself" />
+      {/* <img  src={pic} alt="myself" /> */}
       <h2 className="homeContainer">Web Development Portfolio</h2>
       </div>
  

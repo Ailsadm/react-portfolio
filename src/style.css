@@ -1,12 +1,12 @@
 h1{
-    background-color: #c38d9e ;
+    background-color: #e27d60;
     display: flex;
     justify-content: center;
     margin: 30px;
     border-radius: 10px;
 }
 body{
-    background-color: #41b3a3;
+    background-color: #41b3a485;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
     /* display: flex;
     justify-content: center; */
@@ -16,5 +16,5 @@ p{
 }
 ul{
     
-    background-color: #e27d60;
+    background-color: #e8a87c;
 }

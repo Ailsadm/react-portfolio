@@ -11,7 +11,7 @@ import "./style.css";
 function Projects({name, image, link, githublink}) {
   return (
     <div >
-    <div className="card">
+    <div className="cardedit">
         <img src={image} className="card-img-top card__image"></img>
           <div className="card-body">
             <h5 className="card-title">{name}</h5>

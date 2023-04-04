@@ -17,7 +17,7 @@ function About() {
         assest to any team. I am eager to persue my interest in web development
         and follow my enthusiasm for learning and solving new problems.
       </p>
-      <ul className="aboutUL"><h2>Skills:</h2> 
+      <ul className="aboutUL"><h2 className="title">Skills:</h2> 
         <li>CSS</li>
         <li>JavaScript</li>
         <li>React</li>
